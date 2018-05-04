@@ -1,5 +1,5 @@
-module.exports = [
-    {
+module.exports =  {
+    data: [{
         "id": 1,
         "cohortName": "17-01-WD-DP",
         "code": "g100",
@@ -22,5 +22,5 @@ module.exports = [
         "cohortName": "WD-BD,g110",
         "code": "110",
         "numberOfStudents": 29
-    }
-]
+    }]
+}
